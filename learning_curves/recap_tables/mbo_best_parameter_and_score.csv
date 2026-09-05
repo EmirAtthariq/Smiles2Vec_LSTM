@@ -1,7 +1,7 @@
 Parameter,MBO 1,MBO 2,MBO 3
 Number of LSTM Layers,3,3,3
-Units per Layer,"(25, 41, 201)","(72, 51, 197)","(81, 243, 373)"
+Units per Layer,"(23, 218, 195)","(67, 103, 468)","(40, 144, 301)"
 Learning Rate,0.001,0.001,0.001
 Batch Size,32,32,32
 Optimizer,Adam,Adam,Adam
-Best Score (Test Accuracy),0.8504,0.8740,0.8661
+Best Score (Test Accuracy),0.8465,0.8858,0.8543
